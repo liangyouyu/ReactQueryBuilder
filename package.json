@@ -42,5 +42,13 @@
     "lodash": "^4.13.1"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangyouyu/ReactQueryBuilder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/liangyouyu/ReactQueryBuilder/issues"
+  },
+  "homepage": "https://github.com/liangyouyu/ReactQueryBuilder#readme"
 }
