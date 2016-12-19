@@ -1,6 +1,6 @@
 {
   "name": "reactquerybuilder",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "react querybuilder component",
   "scripts": {
     "start": "npm-run-all --parallel server watch",
